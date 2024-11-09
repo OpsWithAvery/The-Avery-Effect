@@ -1,11 +1,24 @@
-# The Avery Effect
 
-Welcome to **The Avery Effect**! I’m Adrienne Avery, a Program Management Maestro with a passion for streamlining operations, enhancing stakeholder engagement, and empowering teams to achieve more. 
+  <header>
+    <h1>Welcome to The Avery Effect</h1>
+    <p>Program Management Maestro with a passion for streamlining operations, enhancing stakeholder engagement, and empowering teams to achieve more. This repository serves as a reflection of my professional journey, the values I hold, and the way I approach my work. Here, you’ll get an inside look at what drives me, my key strengths, and how I lead teams to success.</p>
+  </header>
+  
+  <section>
+    <h2>Who I Am</h2>
+I am an experienced program manager who thrives on transforming challenges into streamlined, impactful solutions. I approach every project with a strategic mindset, a passion for efficiency, and a collaborative spirit.</p>
+  </section>
 
-This repository serves as a reflection of my professional journey, the values I hold, and the way I approach my work. Here, you’ll get an inside look at what drives me, my key strengths, and how I lead teams to success.
+  <section>
+    <h2>Key Projects</h2>
+    <p>Here are some of the key projects I've led:</p>
+    <ul>
+      <li><strong>Operations Optimization</strong>: Led a project to optimize internal workflows, increasing efficiency by 30%.</li>
+      <li><strong>Distance Learning Enhancement</strong>: Developed a program to enhance student engagement in remote learning environments.</li>
+      <li><strong>Strategic Program Development</strong>: Spearheaded initiatives that improved faculty development and program outcomes.</li>
+    </ul>
+  </section>
 
-## Who I Am
-I am an experienced program manager who thrives on transforming challenges into streamlined, impactful solutions. I approach every project with a strategic mindset, a passion for efficiency, and a collaborative spirit. 
 
 ## My Values
 - **Efficiency:** I believe in optimizing processes and workflows for maximum productivity.
